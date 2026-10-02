@@ -1,0 +1,12 @@
+{
+  "name": "operit-subagent",
+  "version": "1.0.0",
+  "description": "Intelligent sub-agent toolpkg for Operit",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

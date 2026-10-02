@@ -1,0 +1,7 @@
+dist/
+.snapshotver/
+
+*.md
+!README.md
+
+*.toolpkg
