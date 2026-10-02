@@ -1,4 +1,4 @@
-# 子代理通讯录（Sub-Agent Contacts）
+# 子代理通讯录（SubAgent Contacts）
 
 让当前人设的 AI，和别的人设的 AI 互相聊天。一个 Operit ToolPkg：AI 通讯录 + 子代理会话管理器。
 
@@ -206,8 +206,11 @@ adb logcat -s ToolPkg:* PackageManager:* JsEngine:*
 
 ---
 
-## 许可
+## 许可与鸣谢
 
 MIT License，详见仓库根目录 LICENSE。
 
 Copyright (c) 2026 yyswys-yjyj
+
+本包的设计与代码逻辑来自市场上一个已下架的脚本   
+如果您是**sub_agent_manager**的开发者，我们向您致敬。
